@@ -52,6 +52,7 @@ The dataset contains exchange rates for the following currencies:
 The dataset is in tabular format, with two columns:
 
 - **Period/Unit**: Represents the date of the recorded exchange rates.
+
 - The subsequent columns represent the exchange rates against the Euro for each currency mentioned above.
 
 
